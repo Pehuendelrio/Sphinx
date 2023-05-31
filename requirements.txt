@@ -1,0 +1,5 @@
+# ---Documentation Packages---
+Sphinx 
+sphinx-rtd-theme 
+sphinx-markdown-tables
+myst-parser
